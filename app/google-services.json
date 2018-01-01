@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "649760763200",
+    "project_id": "socialmediaintegration-28ea7"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:649760763200:android:b62f9b7e590b4bec",
+        "android_client_info": {
+          "package_name": "com.sandeep.socialmediaintegration"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "649760763200-c3j80uvnfjeoh4ooq0lcmnedb6k6r9hc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.sandeep.socialmediaintegration",
+            "certificate_hash": "87b1b90b2aca4af2470837ee01cc82f72da3f8d7"
+          }
+        },
+        {
+          "client_id": "649760763200-8asoeo099hhfaic8ch4aakakena4bo34.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnWnRO6_7xf4JxeFYEIS0u_aPdKEWGx8c"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
